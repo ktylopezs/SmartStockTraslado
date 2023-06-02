@@ -1,0 +1,4 @@
+Producto, DivisionOrigen, Cantidad, TipoProducto, DivisionDestino, BaseSerialC, SerialConsecutivo, Serial
+FIFO2, Almacenamiento, 1, FIFO, Almacenamiento
+FEFO, Almacenamiento, 1, FEFO, Almacenamiento
+
